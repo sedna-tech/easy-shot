@@ -1,3 +1,3 @@
-# GitHub Pages for AliExpress Coupons Finder
+# GitHub Pages for EasyShot
 
-https://sedna-tech.github.io/aliexpress-coupons-finder
+https://sedna-tech.github.io/easy-shot
